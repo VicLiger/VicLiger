@@ -4,8 +4,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor.liger/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
-![Liger GitHub stats](https://github-readme-stats.vercel.app/api?username=VicLiger&show_icons=true&theme=highcontrast)
-
 ## Tech Stack
 
 <div style="display: inline_block"><br/>
