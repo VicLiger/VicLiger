@@ -12,3 +12,6 @@
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
 </p>
+
+
+<img src="./assets/lineBar.png" width="100%" height="8px"/>
