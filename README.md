@@ -20,7 +20,7 @@
 
 <p align="center">
 	<a href="https://github.com/VicLiger/Portf-lioASP.ENT">
-		<img align="center" border-radius="15%" src="./assets/Portifólio (1).png" />
+		<img align="center" border-radius="15%" src="./assets/Portifólio (2).png" />
 	</a>
 	<a href="https://github.com/VicLiger/ApiLista">
 		<img align="center" src="./assets/Api (2).png" />
