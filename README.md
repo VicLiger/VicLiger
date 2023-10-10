@@ -19,8 +19,8 @@
 ## 🔊 Projetos Principais!
 
 <p align="center">
-	<a href="https://github.com/dev-ribeirojr/banco-de-horas-trabalhadas">
-		<img align="center" border-radius="15%" src="./assets/Portifólio.png" />
+	<a href="https://github.com/VicLiger/Portf-lioASP.ENT">
+		<img align="center" border-radius="15%" src="./assets/Portifólio (1).png" />
 	</a>
 	<a href="https://banco-de-horas-trabalhadas.vercel.app/">
 		<img align="center" src="./assets/banco-de-horas-info.png" />
