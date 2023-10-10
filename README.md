@@ -26,3 +26,5 @@
 		<img align="center" src="./assets/Api (2).png" />
 	</a>
 </p>
+
+<img src="./assets/lineBar.png" width="100%" height="8px"/>
