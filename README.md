@@ -29,6 +29,4 @@
 
 <img src="./assets/lineBar.png" width="100%" height="8px"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Athirson,+and+i+am+a+backend+dev)
-
 
