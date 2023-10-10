@@ -43,8 +43,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=VicLiger&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-![Snake animation](https://github.com/VicLiger/VicLiger/blob/output/github-contribution-grid-snake.svg) 
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=VicLiger&repo=VicLiger&theme=react)](https://github.com/VicLiger/VicLiger)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
