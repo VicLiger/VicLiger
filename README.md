@@ -1,4 +1,4 @@
-<h1>Oi, meu nome é Victor Liger e sou desenvolvedor back-end</h1>
+<h1>👋Oi, meu nome é Victor Liger e sou desenvolvedor back-end</h1>
 
 <p align="center">
     <img src="./assets/Victor Liger (4).png" alt="banner profile" />
