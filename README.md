@@ -1,3 +1,4 @@
+```html
 # <span id="name"></span>
 
 <!-- Animação para digitar e apagar o nome -->
@@ -50,3 +51,4 @@
     }
   }
 </style>
+```html
