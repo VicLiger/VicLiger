@@ -20,7 +20,7 @@
 
 <p align="center">
 	<a href="https://github.com/dev-ribeirojr/banco-de-horas-trabalhadas">
-		<img align="center" src="./assets/Design-sem-nome.png" />
+		<img align="center" src="./assets/Design sem nome.png" />
 	</a>
 	<a href="https://banco-de-horas-trabalhadas.vercel.app/">
 		<img align="center" src="./assets/banco-de-horas-info.png" />
