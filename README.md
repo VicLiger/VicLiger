@@ -46,6 +46,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Tecnologias)](https://git.io/typing-svg)
 
 
+<img src="./assets/html5.svg" alt="banner profile" color=E34F26/>
 
 ## 🔊 Principais Contribuições!
 
