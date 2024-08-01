@@ -1,20 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
+<p align="center">
+    <img src="./assets/Cyber-Strategy-Prog-1600x400.png" alt="banner profile" />
+</p>
+<br>
+<br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=DCDCDC&center=true&vCenter=true&random=false&width=1000&lines=Oi%2C+meu+nome+é+Victor;Tenho+20+anos;e+sou+Engenheiro+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Oi%2C+meu+nome+é+Victor;Tenho+20+anos;e+sou+Engenheiro+de+Software)](https://git.io/typing-svg)
+<br>
+<br>
+<br>
 
-<p align="center">
-    <img src="./assets/Victor Liger (4).png" alt="banner profile" />
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vicliger&theme=windows-dark&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)](https://git.io/streak-stats)
 
-<p align="center">
-	<a href="mailto:victor.liger0800@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-	</a>
-	<a href="https://www.linkedin.com/in/victor-liger-a24a77276/">
-		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-</p>
+</div>
+
+
+<div align="center"> 
+<a href="victorliger.dev@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+
+
+<a  href="www.linkedin.com/in/victorliger" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
+</div>
 
 
 <img src="./assets/lineBar.png" width="100%" height="8px"/>
