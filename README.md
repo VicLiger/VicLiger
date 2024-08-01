@@ -50,11 +50,11 @@
 
 
 <div align="center">  
-    <img src="./assets/html_1051277.png" height="84" width="84" /> <img src="./assets/social_11516361.png" height="84" width="84"/>
-    <img src="./assets/js_5968292.png" height="84" width="84"/> <img src="./assets/typescript_5968381.png" height="84" width="84"/>
-    <img src="./assets/java_16060939.png" height="84" width="84"/> <img src="./assets/python_5968350.png" height="84" width="84"/>
-    <img src="./assets/c-sharp_6132221.png" height="84" width="84"/> <img src="./assets/images__1_-removebg-preview.png" height="84" width="84"/>
-    <img src="./assets/bootstrap_5968672.png" height="84" width="84"/>
+    <img src="./assets/html_1051277.png" height="80" width="80" /> <img src="./assets/social_11516361.png" height="80" width="80"/>
+    <img src="./assets/js_5968292.png" height="80" width="80"/> <img src="./assets/typescript_5968381.png" height="80" width="80"/>
+    <img src="./assets/java_16060939.png" height="80" width="80"/> <img src="./assets/python_5968350.png" height="80" width="80"/>
+    <img src="./assets/c-sharp_6132221.png" height="80" width="80"/> <img src="./assets/images__1_-removebg-preview.png" height="80" width="80"/>
+    <img src="./assets/bootstrap_5968672.png" height="80" width="80"/>
 </div>
 
 <br>
