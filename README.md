@@ -1,5 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
-<h1>👋Oi, meu nome é Victor Liger e sou desenvolvedor back-end</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=DCDCDC&center=true&vCenter=true&random=false&width=1000&lines=Oi%2C+meu+nome+é+Victor;Tenho+20+anos;e+sou+Engenheiro+de+Software)](https://git.io/typing-svg)
 
 <p align="center">
     <img src="./assets/Victor Liger (4).png" alt="banner profile" />
