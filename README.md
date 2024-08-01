@@ -30,20 +30,22 @@
 </div>
 
 
-<img src="./assets/lineBar.png" width="100%" height="8px"/>
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/vicliger?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
 
-## 🔊 Projetos Principais!
 
-<p align="center">
-	<a href="https://github.com/VicLiger/Portf-lioASP.ENT">
-		<img align="center" border-radius="15%" src="./assets/Portifólio (2).png" />
-	</a>
-	<a href="https://github.com/VicLiger/ApiLista">
-		<img align="center" src="./assets/Api (2).png" />
-	</a>
-</p>
+</div>
 
-<img src="./assets/lineBar.png" width="100%" height="8px"/>
+<br>
+<br>
+<br>
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Tecnologias)](https://git.io/typing-svg)
+
+
 
 ## 🔊 Principais Contribuições!
 
