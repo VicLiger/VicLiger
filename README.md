@@ -18,9 +18,10 @@
 
 
 <div align="center"> 
-<a href="victorliger.dev@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+<a href="mailto:victorliger.dev@gmail.com">
+  <img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
+
 
 
 <a  href="https://www.linkedin.com/in/victorliger" target=_blank>
