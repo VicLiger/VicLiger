@@ -13,7 +13,7 @@
 
 <div align="center">
   
-<img width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaKley&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=0d1117" />
+<img width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicLiger&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=0d1117" />
 
 </div>
 
